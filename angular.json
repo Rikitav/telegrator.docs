@@ -20,10 +20,6 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "index": {
-              "input": "src/index.html",
-              "output": "index.html"
-            },
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
@@ -44,11 +40,6 @@
                   "type": "initial",
                   "maximumWarning": "2MB",
                   "maximumError": "4MB"
-                },
-                {
-                  "type": "anyComponentStyle",
-                  "maximumWarning": "10kB",
-                  "maximumError": "20kB"
                 }
               ],
               "outputHashing": "all"
