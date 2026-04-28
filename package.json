@@ -43,6 +43,7 @@
     "@types/express": "^5.0.1",
     "@types/highlight.js": "^9.12.4",
     "@types/node": "^20.17.19",
+    "angular-cli-ghpages": "^3.0.3",
     "angular-eslint": "21.1.0",
     "cross-env": "^10.1.0",
     "eslint": "^9.39.1",

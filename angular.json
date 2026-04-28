@@ -5,7 +5,8 @@
     "packageManager": "npm",
     "schematicCollections": [
       "angular-eslint"
-    ]
+    ],
+    "analytics": "559ba0cd-20f2-497b-8b52-5c2c16a103bf"
   },
   "newProjectRoot": "projects",
   "projects": {
@@ -86,6 +87,9 @@
               "src/**/*.html"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
