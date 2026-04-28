@@ -1,10 +1,10 @@
 {
-  "name": "ai-studio-angular-app",
+  "name": "telegrator-docs",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "dev": "cross-env ng serve --port=3000 --host=0.0.0.0 --define=\"GEMINI_API_KEY='${GEMINI_API_KEY}'\" ${DISABLE_HMR:+--live-reload=false}",
+    "dev": "cross-env ng serve --port=3000 --host=0.0.0.0 ${DISABLE_HMR:+--live-reload=false}",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
