@@ -89,7 +89,12 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "name": "Rikitav",
+            "email": "Rikitav@foo.bar",
+            "cname": "foo.bar"
+          }
         }
       }
     }
