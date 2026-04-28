@@ -1,8 +1,3 @@
----
-title: "Custom Extensions"
-description: "Extend filters, state keepers, and more."
----
-
 # Custom Extensions
 
 You can extend Telegrator by creating custom filters, aspects, and state keepers.

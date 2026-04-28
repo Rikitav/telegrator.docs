@@ -1,8 +1,3 @@
----
-title: "Awaiting Mechanism"
-description: "Pause the handler directly to await the user's next update."
----
-
 # Awaiting Mechanism
 
 Use `AwaitingProvider` to wait for a user's next update (message or callback) inside a handler. This allows for a linear flow in complex multi-step interactions.

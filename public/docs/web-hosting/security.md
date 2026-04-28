@@ -1,8 +1,3 @@
----
-title: "Security & Validation"
-description: "Protecting your webhook endpoint from unauthorized requests."
----
-
 # Webhook Security
 
 Because your webhook endpoint is a public URL, anyone could technically send malicious data to it. Telegrator provides several mechanisms to verify that requests are coming from Telegram.

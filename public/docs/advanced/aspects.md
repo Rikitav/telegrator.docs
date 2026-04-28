@@ -1,8 +1,3 @@
----
-title: "Aspects & Cross-Cutting Concerns"
-description: "Tap into the AOP system handles logging, validation, etc."
----
-
 # Aspects & Cross-Cutting Concerns
 
 Telegrator provides a powerful aspect-oriented programming (AOP) system for handling cross-cutting concerns like logging, validation, authorization, and error handling. This system allows you to separate business logic from infrastructure concerns.

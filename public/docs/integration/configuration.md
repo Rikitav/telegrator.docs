@@ -1,8 +1,3 @@
----
-title: "Configuration Management"
-description: "Configuration files and appsettings bindings."
----
-
 # Configuration Management
 
 The hosting integration provides comprehensive configuration management through standard .NET configuration patterns.

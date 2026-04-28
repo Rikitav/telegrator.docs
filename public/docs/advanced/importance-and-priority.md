@@ -1,8 +1,3 @@
----
-title: "Importance & Priority"
-description: "Understand the execution order mechanisms in Telegrator."
----
-
 # Handler Importance & Priority
 
 Telegrator provides two different mechanisms for controlling handler execution order: `Importance` and `Priority`. These serve different purposes in the framework's execution model.

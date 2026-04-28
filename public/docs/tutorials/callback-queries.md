@@ -1,8 +1,3 @@
----
-title: "CallbackQuery Handling"
-description: "React to inline keyboard buttons."
----
-
 # CallbackQuery Handling
 
 Reacting to inline keyboards is incredibly straightforward with `CallbackQueryHandler`.

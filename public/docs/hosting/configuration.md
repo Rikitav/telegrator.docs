@@ -1,8 +1,3 @@
----
-title: "Configuration & Logging"
-description: "Using standard .NET configuration providers and logging with Telegrator."
----
-
 # Configuration & Logging
 
 When using `Telegrator.Hosting`, the framework respects your application's `appsettings.json` and logging configuration.

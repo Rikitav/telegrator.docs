@@ -1,8 +1,3 @@
----
-title: "Redis Setup"
-description: "Connecting Telegrator to Redis for persistent state management."
----
-
 # Redis State Storage Setup
 
 Persistent state management is key for production bots. While `InMemoryStateStorage` is easy to use, `Telegrator.RedisStateStorage` ensures that your user's progress is never lost during deployments or crashes.

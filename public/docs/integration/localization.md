@@ -1,8 +1,3 @@
----
-title: "Localization"
-description: "Build multi-language bots with built-in localization support."
----
-
 # Localization
 
 Telegrator supports multi-language bots through the `Telegrator.Localized` package. It integrates with the standard .NET `IStringLocalizer` and provides easy access to localized strings within your handlers.

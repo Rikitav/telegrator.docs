@@ -1,8 +1,3 @@
----
-title: "Dependency Injection"
-description: "Integrate Telegrator directly with DI containers."
----
-
 # Dependency Injection (DI)
 
 Telegrator is designed to work seamlessly with DI containers (e.g., ASP.NET Core). Handlers and their dependencies are automatically registered.

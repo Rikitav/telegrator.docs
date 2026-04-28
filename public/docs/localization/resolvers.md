@@ -1,8 +1,3 @@
----
-title: "Culture Resolvers"
-description: "Customizing how the user's language is determined."
----
-
 # Culture Resolvers
 
 By default, Telegrator determines the user's language from the `LanguageCode` field in the Telegram `User` object. However, in many cases, you want users to manually pick a language that gets stored in a database.

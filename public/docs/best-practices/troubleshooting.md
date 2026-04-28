@@ -1,8 +1,3 @@
----
-title: "Troubleshooting & FAQ"
-description: "Resolving common issues and managing bugs."
----
-
 # FAQ & Troubleshooting
 
 ## Common Issues

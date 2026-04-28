@@ -1,8 +1,3 @@
----
-title: "Installation"
-description: "How to install Telegrator and prerequisites."
----
-
 # Installation
 
 **Telegrator** is distributed as a NuGet package. You can install it using the .NET CLI, the NuGet Package Manager Console, or by managing NuGet packages in Visual Studio.

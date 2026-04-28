@@ -1,8 +1,3 @@
----
-title: "Introduction to WideBot"
-description: "Full MTProto support for Telegram bots using WTelegramBot integration."
----
-
 # WideBot (MTProto) Integration
 
 The `Telegrator.Hosting.WideBot` package brings the power of **MTProto** (the protocol used by official Telegram apps) to your Telegrator bot. While the standard Bot API is limited, MTProto allows you to do almost everything a real user can do.

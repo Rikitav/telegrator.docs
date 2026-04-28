@@ -1,8 +1,3 @@
----
-title: "Branching Handlers"
-description: "Combine multiple related routes in a single handler."
----
-
 # Branching Handlers
 
 For complex scenarios where a single handler needs to handle multiple different update types or conditions, you can use `BranchingUpdateHandler` to create handlers with multiple entry points.

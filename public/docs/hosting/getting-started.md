@@ -1,8 +1,3 @@
----
-title: "Getting Started with Hosting"
-description: "Integrate Telegrator with .NET Generic Host for background processing."
----
-
 # Getting Started with Telegrator.Hosting
 
 The `Telegrator.Hosting` package is the standard way to run your bot as a background service in .NET applications. It provides full integration with the .NET Generic Host, allowing you to use standard Dependency Injection, Logging, and Configuration patterns.

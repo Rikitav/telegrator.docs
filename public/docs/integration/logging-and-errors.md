@@ -1,8 +1,3 @@
----
-title: "Logging & Errors"
-description: "Logging interfaces and global exception handling."
----
-
 # Error Handling and Logging
 
 Telegrator provides a centralized logging system called "TelegratorLogging" that allows integration with various logging frameworks while maintaining zero dependencies in the core library.

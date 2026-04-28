@@ -1,8 +1,3 @@
----
-title: "Redis State Storage"
-description: "Configure persistent state storage using Redis."
----
-
 # Redis State Storage
 
 By default, Telegrator uses an in-memory storage for user states. This is great for development but not suitable for production where bot restarts would lose all user progress. The `Telegrator.RedisStateStorage` package provides a persistent alternative.

@@ -1,8 +1,3 @@
----
-title: "Filter System"
-description: "Understand the gatekeepers of your bot logic."
----
-
 # Filter System
 
 Filters are the gatekeepers of your bot logic. They determine when handlers should be executed.

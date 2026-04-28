@@ -1,8 +1,3 @@
----
-title: "Quick Start"
-description: "Create your first bot in minutes."
----
-
 # Quick Start
 
 This section will get you up and running with Telegrator quickly. You'll learn the basics and create your first bot in minutes.

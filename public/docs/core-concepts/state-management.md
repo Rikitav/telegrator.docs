@@ -1,8 +1,3 @@
----
-title: "State Management"
-description: "Maintain state easily for wizards and complex flows without external storage."
----
-
 # State Management
 
 Telegrator provides built-in state management for multi-step conversations (wizards, forms, quizzes) with or without a database.

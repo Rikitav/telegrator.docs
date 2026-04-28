@@ -1,8 +1,3 @@
----
-title: "Organization & Testing"
-description: "Best practices for architecting and thoroughly testing your bots."
----
-
 # Best Practices & Patterns
 
 ## Project Organization

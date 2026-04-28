@@ -1,8 +1,3 @@
----
-title: "Dependency Injection & Lifetimes"
-description: "Understand how handlers and services interact within the DI container."
----
-
 # Dependency Injection & Lifetimes
 
 Telegrator is built for modern .NET applications where Dependency Injection is a first-class citizen. When using `Telegrator.Hosting`, all your handlers are automatically registered in the container.

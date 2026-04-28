@@ -1,8 +1,3 @@
----
-title: "Serialization & Persistence"
-description: "How Telegrator stores your complex state objects in Redis."
----
-
 # Serialization & Persistence
 
 When you store a state in Redis, Telegrator converts your C# objects into JSON. This process is handled automatically, but there are a few things to keep in mind.

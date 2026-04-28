@@ -1,8 +1,3 @@
----
-title: "Advanced Hosting Integration"
-description: "Create powerful filters that integrate with DI services and app settings."
----
-
 ## WideBot (MTProto) Support
 If your bot needs [MTProto support](https://github.com/Rikitav/Telegrator/blob/master/src/Telegrator.Hosting.WideBot/README.md), use the `Telegrator.Hosting.WideBot` package. It replaces the default long-polling/webhook receiver with a powerful MTProto client.
 

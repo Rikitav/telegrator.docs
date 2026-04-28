@@ -1,8 +1,3 @@
----
-title: "Handling MTProto Updates"
-description: "How to process raw TL updates in WideBot handlers."
----
-
 # Handling MTProto Updates
 
 In WideBot, the `Update` object you receive in your handlers is not the same as the standard Telegram Bot API `Update`. It is a wrapped `TL.Update`.

@@ -1,8 +1,3 @@
----
-title: "Webhook Setup"
-description: "Configuring Webhooks for ASP.NET Core applications."
----
-
 # Webhook Fundamentals
 
 `Telegrator.Hosting.Web` allows your bot to receive updates via Webhooks instead of long-polling. This is highly recommended for production environments as it's more efficient and reactive.

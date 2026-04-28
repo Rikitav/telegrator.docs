@@ -1,8 +1,3 @@
----
-title: "Web Optimization"
-description: "Fine-tuning performance for Webhook-based bots."
----
-
 # Webhook Optimization
 
 Running a bot on Webhooks in a web server environment has different performance characteristics than long-polling in a console app.

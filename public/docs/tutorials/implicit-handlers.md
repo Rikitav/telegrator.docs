@@ -1,8 +1,3 @@
----
-title: "Implicit Handlers"
-description: "Create handlers directly from methods."
----
-
 # Implicit Handlers from Methods
 
 You can create handlers directly from methods without defining full handler classes. This is useful for simple handlers or quick prototyping:

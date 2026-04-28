@@ -1,8 +1,3 @@
----
-title: "Handler System"
-description: "Learn about the core handler ideas and lifecycle."
----
-
 # Handler System
 
 Telegrator is built around several core ideas:

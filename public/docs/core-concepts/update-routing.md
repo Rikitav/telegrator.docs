@@ -1,8 +1,3 @@
----
-title: "Update Routing"
-description: "The central component that manages how updates flow through your bot."
----
-
 # Update Routing
 
 The `UpdateRouter` is the central component that manages how updates flow through your bot.

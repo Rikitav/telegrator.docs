@@ -1,8 +1,3 @@
----
-title: "Distributed Concurrency"
-description: "Handling state updates safely across multiple bot instances."
----
-
 # Distributed Concurrency
 
 In a distributed environment (e.g., 3 instances of your bot running in Kubernetes), two updates from the same user could arrive at different instances at the same time.

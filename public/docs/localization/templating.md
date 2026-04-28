@@ -1,8 +1,3 @@
----
-title: "Localized Templating"
-description: "Formatting localized strings with dynamic data."
----
-
 # Localized Templating
 
 Often you need to include dynamic values (like usernames or counts) in your localized messages.

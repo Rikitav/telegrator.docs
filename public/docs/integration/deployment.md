@@ -1,8 +1,3 @@
----
-title: "Deployment & Hosting Options"
-description: "Learn to deploy in Console, ASP.NET Core, or Webhooks."
----
-
 # Integration & Deployment
 
 Telegrator works in console, hosted applications, and ASP.NET Core (webhook) projects.
