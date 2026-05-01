@@ -30,14 +30,18 @@ builder.AddWideTelegrator();
 using Microsoft.Data.Sqlite;
 using System.Data.Common;
 
-using DbConnection connection = new SqliteConnection(@"Data Source=bot_data.db");
-
-builder.Services.ConfigureWideTelegram(new WTelegramBotClientOptions(
+builder.Services.ConfigureWideBot(new WideBotOptions(
     token: "BOT_TOKEN",
     apiId: 123456, 
-    apiHash: "YOUR_HASH",
-    dbConnection: connection // Pass DB connection for MTProto session
+    apiHash: "YOUR_HASH"
 ));
+
+string appData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+string database = Path.Combine(appData, "wtgb.db");
+
+builder.AddWideTelegrator(
+    dbConnectionFactory: _ => new SqliteConnection($"Data Source={database}"),
+    action: builder => builder.Handlers.CollectHandlers());
 
 var app = builder.Build();
 
